@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
-	<!-- <link rel="stylesheet" href="styles.css"> -->
+	<link rel="stylesheet" href="styles.css">
 	<style type="text/css" media="screen">
 		#mi_estilo li {
 			/*cuando es por id*/
@@ -70,6 +70,69 @@
 	<mark>Mi texto</mark><!-- pintar fonde de texto -->
 	
 	<marquee>Bienvenido</marquee><!-- marquesina para frase que recorra la página de derecha a izquiersa -->
+
+	<!-- Tablas -->
+<!-- 
+		_____________________________
+		|_______|_______|______|_____|
+		|_______|_______|______|_____|
+		|_______|_______|______|_____|
+		|_______|_______|______|_____|
+		|_______|_______|______|_____|
+		|_______|_______|______|_____|
+		|_______|_______|______|_____|
+ -->
+ <!-- tr son para las filas
+ td son para las columnas
+ y las etiquetas td van dentro de las etiquetas tr -->
+<table bgcolor="#C0C0AB" border="1" align="center" height="100%" width="60%" >
+	<tr>
+		<td bgcolor="yellow" colspan="2">kk</td>
+		<td>kk</td>
+		<td>kk</td>
+	</tr>
+	<tr>
+		<td>kk</td>
+		<td>kk</td>
+		<td>kk</td>
+		<td rowspan="2" bgcolor="blue">kk</td>
+	</tr>
+	<tr>
+		<td>kk</td>
+		<td>kk</td>
+		<td>kk</td>
+		
+	</tr>
+	<tr>
+		<td>kk</td>
+		<td>kk</td>
+		<td>kk</td>
+		<td>kk</td>
+	</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
 
 
 
