@@ -93,6 +93,12 @@
 				</td>
 			</tr>
 			<tr>
+				<td>textarea</td>
+				<td>
+					<textarea name="direccion" placeholder="Ej: Av. Sendrea" rows="5" cols="30"></textarea>
+				</td>
+			</tr>
+			<tr>
 				<td>button atributo</td>
 				<td>
 					<input type="button" name="click" value="click">
@@ -102,7 +108,7 @@
 				<td>button etiqueta type=reset</td>
 				<td>
 					<button type="reset" name="limpiar">Limpiar</button>
-					
+
 				</td>
 			</tr>
 			<tr>
