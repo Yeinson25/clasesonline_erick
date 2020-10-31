@@ -85,7 +85,7 @@
  <!-- tr son para las filas
  td son para las columnas
  y las etiquetas td van dentro de las etiquetas tr -->
-<table bgcolor="#C0C0AB" border="1" align="center" height="100%" width="60%" >
+<table bgcolor="#C0C0AB" border="1" align="center" height="100%" width="60%">
 	<tr>
 		<td bgcolor="yellow" colspan="2">kk</td>
 		<td>kk</td>
@@ -109,8 +109,34 @@
 		<td>kk</td>
 		<td>kk</td>
 	</tr>
-</table>
+    </table>
+    <br> 
+<table bgcolor="#C0C0AB" border="1" align="center" height="100%" width="60%" >
+	<tr>
+		<td>flash</td>
+		<td>flash</td>
+		<td bgcolor="brown" colspan="2">flash</td>
 
+	</tr>
+	<tr>
+		<td>flash</td>
+		<td rowspan="2" bgcolor="red">flash</td>
+		<td>flash</td>
+		<td>flash</td>
+		
+	</tr>
+	<tr>
+		<td rowspan="2" bgcolor="green">flash</td>
+		<td>flash</td>
+		<td>flash</td>
+		
+	</tr>
+	<tr>
+		
+		<td bgcolor="pink" colspan="2">flash</td>
+		<td>flash</td>
+	</tr>
+</table>
 
 
 
