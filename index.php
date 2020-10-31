@@ -22,13 +22,22 @@
 			text-decoration: none;
 			color: red;
 			font-family: Arial;
-			font-size: 50px;
 
 		}
 	</style>
 </head>
 <body>
-	<center><h1>Erick</h1><a href="" title="">Sal de aquí</a></center><!-- títulos -->
+	<center><h1>Erick</h1>
+	<a href="" title="">Sal de aquí</a></center><!-- títulos -->
+		<br>
+		<h4>Menú</h4>
+		<ul>
+			<li><a href="formulario_basico.php">Formulario básico</a></li>
+		</ul>
+
+
+
+
 	<br><!-- salto de línea -->
 	<hr><!-- dibujar una línea -->
 	<p class="otros_estilos"><!-- párrafos -->
