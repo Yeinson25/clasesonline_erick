@@ -32,6 +32,28 @@
 					<th>Apellidos</th>
 					<td><input type="text" name="apellidos" placeholder="Ej: Carvajal Rojas" required="required" title="Ingrese sus apellidos" id="apellidos"></td>
 				</tr>
+				<tr>
+					<th>Nacionalidad</th>
+					<td>
+						<input type="radio" name="nacionalidad" checked="checked" value="V" title="Seleccione si es Venezolana(o)"> Venezolana(o) &nbsp;&nbsp;&nbsp;
+						<input type="radio" name="nacionalidad" value="E" title="Seleccione si es Extranjera(o)"> Extranjera(o)
+					</td>
+					<th>Cédula</th>
+					<td>
+						<input type="number" name="cedula" value="" placeholder="Ej: 12345678" id="cedula" title="Ingrese su cédula" required="required" max="999999999" min="100000">
+					</td>
+				</tr>
+				<tr>
+					<th>Estado Civil</th>
+					<td colspan="3"> 
+						<input type="radio" name="estado_civil" value="soltera(o)" title="seleccione si su estado civil es soltera(o)"> Soltera(o) &nbsp;&nbsp;&nbsp;&nbsp;
+						<input type="radio" name="estado_civil" value="casada(o)"  title="seleccione si su estado civil es casada(o)"> Casada(o)&nbsp;&nbsp;&nbsp;&nbsp;
+						<input type="radio" name="estado_civil" value="divorciada(o)" title="seleccione si su estado civil es divorciada(o)"> Divorciada(o)&nbsp;&nbsp;&nbsp;&nbsp;
+						<input type="radio" name="estado_civil" value="concubina(o)" title="seleccione si su estado civil es concubina(o)"> Concubina(o)&nbsp;&nbsp;&nbsp;&nbsp;
+						<input type="radio" name="estado_civil"value="viuda(o)" title="seleccione si su estado civil es viuda(o)"> Viuda(o)
+					</td>
+
+				</tr>
 			</tbody>
 		</table>
 
