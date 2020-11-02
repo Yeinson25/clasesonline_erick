@@ -33,6 +33,7 @@
 		<h4>Menú</h4>
 		<ul>
 			<li><a href="formulario_basico.php">Formulario básico</a></li>
+			<li><a href="formulario_curriculum.php">Formulario Curriculum</a></li>
 		</ul>
 
 
