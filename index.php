@@ -32,8 +32,9 @@
 		<br>
 		<h4>Menú</h4>
 		<ul>
-			<li><a href="formulario_basico.php">Formulario básico</a></li>
+			<li><a href="formulario_Basico.php">Formulario básico</a></li>
 			<li><a href="formulario_curriculum.php">Formulario Curriculum</a></li>
+			<li><a href="formulario_curriculum2.php">Formulario Curriculum 2</a></li>
 		</ul>
 
 
@@ -111,7 +112,6 @@
 		<td>kk</td>
 		<td>kk</td>
 		<td>kk</td>
-		
 	</tr>
 	<tr>
 		<td>kk</td>
@@ -126,7 +126,6 @@
 		<td>flash</td>
 		<td>flash</td>
 		<td bgcolor="brown" colspan="2">flash</td>
-
 	</tr>
 	<tr>
 		<td>flash</td>
@@ -138,11 +137,9 @@
 	<tr>
 		<td rowspan="2" bgcolor="green">flash</td>
 		<td>flash</td>
-		<td>flash</td>
-		
+		<td>flash</td>	
 	</tr>
 	<tr>
-		
 		<td bgcolor="pink" colspan="2">flash</td>
 		<td>flash</td>
 	</tr>

@@ -14,8 +14,8 @@
 		<caption>Mostrando elementos de formularios</caption>
 		<thead>
 			<tr>
-				<th>etiqueta</th>
-				<th>elemento</th>
+				<th>Etiqueta</th>
+				<th>Elemento</th>
 			</tr>
 		</thead>
 		<tbody>
